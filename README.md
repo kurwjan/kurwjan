@@ -4,6 +4,12 @@
 
 I am 𝚔𝚞𝚛𝚠𝚓𝚊𝚗, a rookie developer from 𝙿𝚘𝚕𝚊𝚗𝚍 in 𝙶𝚎𝚛𝚖𝚊𝚗𝚢 with some experience. I mostly just experimented with languages and didn't do any 𝚋𝚒𝚐 projects until now.
 
+You can contact me through:
+
+  + 𝙳𝚒𝚜𝚌𝚘𝚛𝚍: @kurwjan
+  + 𝙴-𝙼𝚊𝚒𝚕: kurwjann@gmail.com
+
+
 # Working on <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width=42px>
 
 + <img height="18" width="18" src="https://cdn.simpleicons.org/python/gold" /> [𝙻𝚊𝚗𝚒𝚜𝙰𝙿𝙸](https://github.com/kurwjan/LanisAPI), a python library for Hesse's Schulportal created by 𝚖𝚎.
